@@ -7,11 +7,11 @@ Currently, I've got a passion for all things tech, with specialties in automatio
 
 ## Current Projects
 - Learning assembly and rust
-- [Fortnite AI softaim](https://discord.gg/t7QCUwApGF)
 - Works on all sorts of freelance jobs (dm if you need a dev !)
 
 ## Past Projects
 - Virtual machine
+- Ai fortnite aimbot
 - Rotating Proxy pool
 - Bulk account creators
 - Website scraping/botting
