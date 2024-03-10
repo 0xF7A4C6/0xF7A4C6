@@ -2,8 +2,7 @@
 
 Hey there, I'm Julien, an 18-year-old developer hailing from France. 
 
-I'm a Freelance Golang & Python Software Engineer. Focused on lowlevel stuff, mass website botting, REST APIs and anti-bot bypassing. 
-Currently, I've got a passion for all things tech, with specialties in automation, offensive security, reverse engineering, and networking.
+I'm a Freelance Golang & Python Software Engineer. Focused on lowlevel stuff, finance quantitative trading, mass website botting, REST APIs and anti-bot bypassing. Currently, I've got a passion for all things tech, with specialties in automation, offensive security, reverse engineering, and networking.
 
 ## Current Projects
 - Learning assembly and rust
@@ -21,14 +20,9 @@ Currently, I've got a passion for all things tech, with specialties in automatio
 - A range of services and software on Discord
 - Multiple services and botting-related projects
 
-## Strong Languages / Skills, Tools
-
-I'm primarily a Golang developer but also fluent in using Python. I usually use VS Code on Windows with GitHub Desktop to manage projects. I like to use Surreal DB as a database and Docker to deploy in production. I use Ghidra for reverse engineering, and I also use Node.js to reverse web-based anti-bot protections. Sometimes, I run my MacBook Pro M2 to chill out or work outside of my home (and touch somes grass..).
-
 ## Social
 
-- Email: `0xF7A4C6@proton.me`
-- Discord: `_wasm`
+- Discord: `webassembly.`
 - Telegram: `@nikolahellatrigger`
 
 Feel free to contact me for any professional inquery 🤗.
