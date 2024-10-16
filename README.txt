@@ -1,1 +1,1 @@
-I'm doing quant finance
+I'm doing quant finance, low latency system.
